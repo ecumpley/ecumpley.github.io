@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ecumpley.github.io/sitemap.html.gz
+Sitemap: https://ecumpley.github.io/app/sitemap.html.gz
+Sitemap: https://ecumpley.github.io/assets/sitemap.html.gz
+Sitemap: https://ecumpley.github.io/css/sitemap.html.gz
+Sitemap: https://ecumpley.github.io/includes/sitemap.html.gz
+Sitemap: https://ecumpley.github.io/item/sitemap.html.gz
+Sitemap: https://ecumpley.github.io/src/sitemap.html.gz
